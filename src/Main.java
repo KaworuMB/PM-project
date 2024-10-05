@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        for (int i = 0;i<20;i++){
+        for (int i = 0;i<230;i++){
             System.out.println(i);
         }
     }
